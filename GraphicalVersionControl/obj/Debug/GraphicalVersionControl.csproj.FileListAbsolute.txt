@@ -1,0 +1,17 @@
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\bin\Debug\GraphicalVersionControl.exe.config
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\bin\Debug\GraphicalVersionControl.exe
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\bin\Debug\GraphicalVersionControl.pdb
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\GraphicalVersionControl.csprojAssemblyReference.cache
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\MainWindow.g.cs
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\App.g.cs
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\GraphicalVersionControl_MarkupCompile.cache
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\GraphicalVersionControl_MarkupCompile.lref
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\MainWindow.baml
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\GraphicalVersionControl.g.resources
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\GraphicalVersionControl.Properties.Resources.resources
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\GraphicalVersionControl.csproj.GenerateResource.cache
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\GraphicalVersionControl.csproj.CoreCompileInputs.cache
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\GraphicalVersionControl.exe
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\GraphicalVersionControl.pdb
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\LoadVersionWindow.g.cs
+C:\Users\psalvi\source\repos\GraphicalVersionControl\GraphicalVersionControl\obj\Debug\LoadVersionWindow.baml
